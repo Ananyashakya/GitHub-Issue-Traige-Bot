@@ -1,0 +1,16 @@
+{
+  "labels": {
+    "bug": 0,
+    "documentation": 1,
+    "enhancement": 2,
+    "performance": 3,
+    "question": 4
+  },
+  "id2label": {
+    "0": "bug",
+    "1": "documentation",
+    "2": "enhancement",
+    "3": "performance",
+    "4": "question"
+  }
+}
